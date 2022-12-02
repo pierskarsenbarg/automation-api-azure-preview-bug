@@ -1,3 +1,0 @@
-name: automation-api-azure-preview-bug
-description: A minimal C# Pulumi program with the classic Azure provider
-runtime: dotnet
